@@ -1,14 +1,17 @@
 ## Objetivo
-The password for the next level is stored in a file called **-** located in the home directory
+The password for the next level is stored in a file somewhere under the **inhere** directory and has all of the following properties:
+
+- human-readable
+- 1033 bytes in size
+- not executable
 
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
-bandit1
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-
+bandit5
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ## Solución
 ```
-C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
+C:\Users\yahir\OneDrive\Desktop\6to_Semestre\Seguridad en Redes\Notas Hacking>ssh bandit5@bandit.labs.overthewire.org -p2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -19,7 +22,7 @@ C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit1@bandit.labs.overthewire.org's password:
+bandit5@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -103,15 +106,16 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit1@bandit:~$ ls
--
-bandit1@bandit:~$ cat ./-
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-bandit1@bandit:~$ exit
+bandit5@bandit:~$ cd inhere/
+bandit5@bandit:~/inhere$ find . -readable -size 1033c -not -executable
+./maybehere07/.file2
+bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
 ## Notas adicionales
-- Aprendimos como abrir archivos con nombre discontinuo
+- El comando *find* tiene varios parametros de busqueda, en este caso se uso el parametro -size (para indicar los 1033 bytes), el comando -not (para insertar una negacion), -executable (para ver que el archivo sea ejecutable) y -readable (para verificar que el archivo tenga un formato legible para los humanos)
 
 ## Referencias
-
+- https://mayadevbe.me/posts/overthewire/bandit/level6/
+- https://man7.org/linux/man-pages/man1/find.1.html

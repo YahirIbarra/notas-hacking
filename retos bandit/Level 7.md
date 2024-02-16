@@ -1,14 +1,13 @@
 ## Objetivo
-The password for the next level is stored in a file called **-** located in the home directory
+The password for the next level is stored in the file **data.txt** next to the word **millionth**
 
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
-bandit1
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-
+bandit7
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ## Solución
 ```
-C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
+C:\Users\yahir\OneDrive\Desktop\6to_Semestre\Seguridad en Redes\Notas Hacking>ssh bandit7@bandit.labs.overthewire.org -p2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -19,7 +18,7 @@ C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit1@bandit.labs.overthewire.org's password:
+bandit7@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -103,15 +102,14 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit1@bandit:~$ ls
--
-bandit1@bandit:~$ cat ./-
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-bandit1@bandit:~$ exit
+bandit7@bandit:~$ ls
+data.txt
+bandit7@bandit:~$ cat data.txt | grep 'millionth'
+millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+bandit7@bandit:~$ exit
 ```
 
 ## Notas adicionales
-- Aprendimos como abrir archivos con nombre discontinuo
+- El comando grep nos permite buscar patrones dentro de un texto determinado
 
 ## Referencias
-

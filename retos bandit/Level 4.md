@@ -1,14 +1,14 @@
 ## Objetivo
-The password for the next level is stored in a file called **-** located in the home directory
+The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
 
 ## Datos de acceso al nivel
 **bandit.labs.overthewire.org**
-bandit1
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+bandit4
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## Solución
 ```
-C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
+C:\Users\yahir\OneDrive\Desktop\6to_Semestre\Seguridad en Redes\Notas Hacking>ssh bandit4@bandit.labs.overthewire.org -p2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -19,7 +19,9 @@ C:\Users\yahir>ssh bandit1@bandit.labs.overthewire.org -p 2220
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit1@bandit.labs.overthewire.org's password:
+bandit4@bandit.labs.overthewire.org's password:
+Permission denied, please try again.
+bandit4@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -103,15 +105,24 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit1@bandit:~$ ls
--
-bandit1@bandit:~$ cat ./-
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-bandit1@bandit:~$ exit
+bandit4@bandit:~$ cd inhere/
+bandit4@bandit:~/inhere$ file ./-file*
+./-file00: data
+./-file01: data
+./-file02: data
+./-file03: data
+./-file04: data
+./-file05: data
+./-file06: data
+./-file07: ASCII text
+./-file08: data
+./-file09: data
+bandit4@bandit:~/inhere$ cat ./-file07
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+bandit4@bandit:~/inhere$ exit
 ```
 
 ## Notas adicionales
-- Aprendimos como abrir archivos con nombre discontinuo
+- El comando file permite determinar el tipo de archivo
 
 ## Referencias
-

@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5713c8628eab9d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/RetosWeb-Parte1/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1db59794af439c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/RetosWeb-Parte1/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74fc91a5bec50779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "677e2ddae9a8f70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos bandit/Level 24.md",
+                "file": "picoCTF/Primer_Parcial/08 - Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/Level 24.md",
+                "file": "picoCTF/Primer_Parcial/08 - Tab, Tab, Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/Level 24.md",
+                "file": "picoCTF/Primer_Parcial/08 - Tab, Tab, Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/Level 24.md"
+                "file": "picoCTF/Primer_Parcial/08 - Tab, Tab, Attack.md"
               }
             }
           }
@@ -183,40 +146,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "677e2ddae9a8f70b",
+  "active": "74fc91a5bec50779",
   "lastOpenFiles": [
-    "picoCTF/RetosWeb-Parte1/Client-side-again.md",
-    "retos bandit/Level 23.md",
-    "retos bandit/plantilla.md",
+    "picoCTF/Primer_Parcial/09 - 2Warm.md",
+    "picoCTF/Primer_Parcial/07 - Static ain't always noise.md",
+    "picoCTF/Primer_Parcial/08 - Tab, Tab, Attack.md",
+    "picoCTF/Primer_Parcial/16- what's a net cat.md",
     "picoCTF/plantilla.md",
+    "picoCTF/Primer_Parcial/15- strings it.md",
+    "picoCTF/Primer_Parcial/14 - fixme1.py.md",
+    "picoCTF/Primer_Parcial/13- First Grep.md",
+    "picoCTF/Primer_Parcial/12 - convertme.py.md",
+    "picoCTF/Primer_Parcial/11 - Codebook.md",
+    "picoCTF/Primer_Parcial/10 - Bases.md",
+    "retos bandit/plantilla.md",
+    "picoCTF/RetosWeb-Parte1/Client-side-again.md",
+    "picoCTF/RetosWeb-Parte1/where are the robots.md",
+    "retos bandit/Level 24.md",
+    "retos bandit/Level 23.md",
     "picoCTF/RetosWeb-Parte1/picobrowser.md",
     "picoCTF/RetosWeb-Parte1/dont-use-client-side.md",
-    "picoCTF/RetosWeb-Parte1/where are the robots.md",
     "picoCTF/RetosWeb-Parte1/logon.md",
     "picoCTF/RetosWeb-Parte1/Insp3ct0r.md",
-    "picoCTF/Primer_Parcial/Sin título.md",
     "picoCTF/RetosWeb-Parte1",
-    "retos bandit/Level 24.md",
     "retos bandit/Level 22.md",
-    "picoCTF/Primer_Parcial/07 - Static ain't always noise.md",
     "picoCTF/Primer_Parcial/06 - Magikarp Ground Mission.md",
     "picoCTF/Primer_Parcial/05 - Warmed Up.md",
     "picoCTF/Primer_Parcial/04 - Lets Warm Up.md",
     "picoCTF/Primer_Parcial/01 - Obedient Cat.md",
     "picoCTF/Primer_Parcial/03 - Nice netcat....md",
-    "picoCTF/Primer_Parcial/02 - Wave flag.md",
     "picoCTF/Primer_Parcial",
     "picoCTF",
-    "retos bandit/Level 21.md",
-    "retos bandit/Level 20.md",
-    "retos bandit/Level 19.md",
-    "retos bandit/Level 18.md",
-    "retos bandit/Level 17.md",
-    "retos bandit/Level 16.md",
     "llave_nivel17.txt",
     "llave.txt",
     "Nuevo documento de texto.txt",
-    "retos bandit/Level 15.md",
     "retos bandit"
   ]
 }

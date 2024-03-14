@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "75e495cf3fcead4a",
+        "id": "35b483cd9fec1816",
         "type": "tabs",
         "children": [
           {
-            "id": "39142bb61605c9f0",
+            "id": "e21fc33f87448457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md"
+              }
             }
           }
         ]
@@ -138,14 +146,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "39142bb61605c9f0",
+  "active": "e21fc33f87448457",
   "lastOpenFiles": [
+    "picoCTF/RetosForensic-Parte1/What Lies Within.md",
+    "picoCTF/plantilla.md",
+    "retos bandit/Level 18.md",
+    "retos bandit/Level 17.md",
+    "retos bandit/Level 16.md",
+    "retos bandit/Level 14.md",
+    "picoCTF/RetosForensic-Parte1/So Meta.md",
+    "Imagenes/Pasted image 20240313184037.png",
+    "picoCTF/RetosForensic-Parte1/shark on wire 1.md",
+    "picoCTF/RetosForensic-Parte1/Glory of the Garden.md",
+    "picoCTF/RetosForensic-Parte1/extensions.md",
+    "Imagenes",
+    "README.md",
+    "picoCTF/Sin título.md",
+    "picoCTF/RetosForensic-Parte1",
     "retos bandit/Level 31.md",
     "retos bandit/Level 32.md",
     "retos bandit/Level 33.md",
     "retos bandit/plantilla.md",
     "picoCTF/RetosWeb-Parte3/Scavenger Hunt.md",
-    "picoCTF/plantilla.md",
     "picoCTF/RetosWeb-Parte3/Cookies.md",
     "picoCTF/RetosWeb-Parte3/GET aHEAD.md",
     "picoCTF/RetosWeb-Parte3",
@@ -158,23 +180,10 @@
     "retos bandit/Level 27.md",
     "retos bandit/Level 26.md",
     "retos bandit/Level 25.md",
-    "README.md",
-    "picoCTF/RetosWeb-Parte2/JaWT Scratchpad.md",
-    "picoCTF/RetosWeb-Parte2/Irish-Name-Repo 3.md",
-    "picoCTF/RetosWeb-Parte2/Irish-Name-Repo 2.md",
-    "picoCTF/RetosWeb-Parte2/Irish-Name-Repo 1.md",
-    "picoCTF/Primer_Parcial/24 - plumbing.md",
     "picoCTF/RetosWeb-Parte2",
-    "retos bandit/Level 8.md",
-    "retos bandit/Level 7.md",
-    "retos bandit/Level 6.md",
-    "retos bandit/Level 5.md",
-    "retos bandit/Level 4.md",
     "picoCTF/RetosWeb-Parte1",
     "picoCTF/Primer_Parcial",
     "picoCTF",
-    "llave_nivel17.txt",
-    "llave.txt",
-    "Nuevo documento de texto.txt"
+    "llave_nivel17.txt"
   ]
 }

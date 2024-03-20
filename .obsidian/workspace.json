@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35b483cd9fec1816",
+        "id": "1079f4125b70451c",
         "type": "tabs",
         "children": [
           {
-            "id": "e21fc33f87448457",
+            "id": "591bc128ac4729d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/RetosForensic-Parte1/What Lies Within.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e21fc33f87448457",
+  "active": "591bc128ac4729d1",
   "lastOpenFiles": [
-    "picoCTF/RetosForensic-Parte1/What Lies Within.md",
     "picoCTF/plantilla.md",
+    "picoCTF/RetosForensic-Parte2/shark on wire 2/shark on wire 2.md",
+    "picoCTF/RetosForensic-Parte2/WhitePages/WhitePages.md",
+    "picoCTF/RetosForensic-Parte2/shark on wire 2/capture.pcap",
+    "picoCTF/RetosForensic-Parte2/WhitePages/whitepages.txt",
+    "picoCTF/RetosForensic-Parte2/m00nwalk/message.wav",
+    "picoCTF/RetosForensic-Parte2/m00nwalk/m00nwalk.md",
+    "picoCTF/RetosForensic-Parte2/like1000/like1000.md",
+    "picoCTF/RetosForensic-Parte2/like1000/1000.tar",
+    "picoCTF/RetosForensic-Parte2/c0rrupt/c0rrupt.md",
+    "picoCTF/RetosForensic-Parte2/c0rrupt/mystery",
+    "picoCTF/RetosForensic-Parte2/shark on wire 2",
+    "picoCTF/RetosForensic-Parte2/WhitePages",
     "retos bandit/Level 18.md",
+    "picoCTF/RetosForensic-Parte2/like1000",
+    "picoCTF/RetosForensic-Parte2/m00nwalk",
+    "picoCTF/RetosForensic-Parte2/c0rrupt",
+    "picoCTF/RetosForensic-Parte2/Sin título.md",
     "retos bandit/Level 17.md",
     "retos bandit/Level 16.md",
+    "retos bandit/Level 15.md",
     "retos bandit/Level 14.md",
-    "picoCTF/RetosForensic-Parte1/So Meta.md",
-    "Imagenes/Pasted image 20240313184037.png",
-    "picoCTF/RetosForensic-Parte1/shark on wire 1.md",
-    "picoCTF/RetosForensic-Parte1/Glory of the Garden.md",
-    "picoCTF/RetosForensic-Parte1/extensions.md",
-    "Imagenes",
-    "README.md",
-    "picoCTF/Sin título.md",
-    "picoCTF/RetosForensic-Parte1",
-    "retos bandit/Level 31.md",
-    "retos bandit/Level 32.md",
-    "retos bandit/Level 33.md",
-    "retos bandit/plantilla.md",
-    "picoCTF/RetosWeb-Parte3/Scavenger Hunt.md",
-    "picoCTF/RetosWeb-Parte3/Cookies.md",
-    "picoCTF/RetosWeb-Parte3/GET aHEAD.md",
-    "picoCTF/RetosWeb-Parte3",
-    "retos bandit/Level 30.md",
-    "picoCTF/RetosWeb-Parte3",
-    "picoCTF/Primer_Parcial/Sin título",
-    "retos bandit/Level 29.md",
-    "retos bandit/Level 28.md",
-    "retos bandit/Level 24.md",
-    "retos bandit/Level 27.md",
-    "retos bandit/Level 26.md",
-    "retos bandit/Level 25.md",
-    "picoCTF/RetosWeb-Parte2",
-    "picoCTF/RetosWeb-Parte1",
-    "picoCTF/Primer_Parcial",
-    "picoCTF",
-    "llave_nivel17.txt"
+    "retos bandit/Level 13.md",
+    "retos bandit/Level 12.md",
+    "retos bandit/Level 11.md",
+    "retos bandit/Level 10.md",
+    "retos bandit/Level 9.md",
+    "retos bandit/Level 8.md",
+    "retos bandit/Level 7.md",
+    "retos bandit/Level 5.md",
+    "retos bandit/Level 3.md",
+    "picoCTF/PicoCTF_2024/dont-you-love-banners.md",
+    "picoCTF/PicoCTF_2024/endianness.md",
+    "picoCTF/PicoCTF_2024/Super SSH.md",
+    "picoCTF/PicoCTF_2024/Time Machine.md",
+    "picoCTF/PicoCTF_2024/Collaborative Development.md",
+    "Sin título.canvas",
+    "Imagenes/Pasted image 20240313184037.png"
   ]
 }

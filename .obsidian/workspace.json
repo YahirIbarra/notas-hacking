@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "1079f4125b70451c",
+        "id": "69e1877d0b26894a",
         "type": "tabs",
         "children": [
           {
-            "id": "591bc128ac4729d1",
+            "id": "d17fc1309dfb086b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da0d9a2d452c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/RetosForensic-Parte3/WebNet0/WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b5d575ec17d2b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md"
+              }
             }
           }
         ]
@@ -138,25 +170,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "591bc128ac4729d1",
+  "active": "d17fc1309dfb086b",
   "lastOpenFiles": [
     "picoCTF/plantilla.md",
+    "picoCTF/RetosForensic-Parte3/WebNet0/WebNet0.md",
+    "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
+    "picoCTF/RetosForensic-Parte3/WebNet1",
+    "picoCTF/RetosForensic-Parte3/WebNet0/picopico.key",
+    "picoCTF/RetosForensic-Parte3/WebNet0/capture.pcap",
+    "picoCTF/RetosForensic-Parte3/MacroHard/MacroHard WeakEdge.md",
+    "picoCTF/RetosForensic-Parte3/WebNet0",
+    "picoCTF/RetosForensic-Parte3/MacroHard/Forensics is fun.pptm",
+    "picoCTF/RetosForensic-Parte3/MacroHard",
+    "picoCTF/RetosForensic-Parte3/Tunnel_Vision/tunn3l v1s10n.md",
+    "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/Matryoshka doll.md",
+    "picoCTF/RetosForensic-Parte3/Tunnel_Vision/tunn3l_v1s10n",
+    "picoCTF/RetosForensic-Parte3/Tunnel_Vision",
+    "picoCTF/RetosForensic-Parte3/Nueva carpeta",
+    "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
+    "picoCTF/RetosForensic-Parte2/m00nwalk/m00nwalk.md",
+    "picoCTF/RetosForensic-Parte3/Matryoshka_Doll",
     "picoCTF/RetosForensic-Parte2/shark on wire 2/shark on wire 2.md",
     "picoCTF/RetosForensic-Parte2/WhitePages/WhitePages.md",
-    "picoCTF/RetosForensic-Parte2/shark on wire 2/capture.pcap",
-    "picoCTF/RetosForensic-Parte2/WhitePages/whitepages.txt",
-    "picoCTF/RetosForensic-Parte2/m00nwalk/message.wav",
-    "picoCTF/RetosForensic-Parte2/m00nwalk/m00nwalk.md",
     "picoCTF/RetosForensic-Parte2/like1000/like1000.md",
-    "picoCTF/RetosForensic-Parte2/like1000/1000.tar",
     "picoCTF/RetosForensic-Parte2/c0rrupt/c0rrupt.md",
-    "picoCTF/RetosForensic-Parte2/c0rrupt/mystery",
-    "picoCTF/RetosForensic-Parte2/shark on wire 2",
-    "picoCTF/RetosForensic-Parte2/WhitePages",
     "retos bandit/Level 18.md",
-    "picoCTF/RetosForensic-Parte2/like1000",
-    "picoCTF/RetosForensic-Parte2/m00nwalk",
-    "picoCTF/RetosForensic-Parte2/c0rrupt",
     "picoCTF/RetosForensic-Parte2/Sin título.md",
     "retos bandit/Level 17.md",
     "retos bandit/Level 16.md",
@@ -171,11 +209,6 @@
     "retos bandit/Level 7.md",
     "retos bandit/Level 5.md",
     "retos bandit/Level 3.md",
-    "picoCTF/PicoCTF_2024/dont-you-love-banners.md",
-    "picoCTF/PicoCTF_2024/endianness.md",
-    "picoCTF/PicoCTF_2024/Super SSH.md",
-    "picoCTF/PicoCTF_2024/Time Machine.md",
-    "picoCTF/PicoCTF_2024/Collaborative Development.md",
     "Sin título.canvas",
     "Imagenes/Pasted image 20240313184037.png"
   ]

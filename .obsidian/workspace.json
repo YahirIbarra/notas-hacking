@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
+                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
+                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
+                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md"
+                "file": "picoCTF/PicoCTF_2024/CanYouSee.md"
               }
             }
           }
@@ -172,9 +172,25 @@
   },
   "active": "d17fc1309dfb086b",
   "lastOpenFiles": [
+    "picoCTF/PicoCTF_2024/Time Machine.md",
+    "picoCTF/PicoCTF_2024/Super SSH.md",
+    "picoCTF/PicoCTF_2024/Secret of the Polyglot.md",
+    "picoCTF/PicoCTF_2024/Scan Surprise.md",
+    "picoCTF/PicoCTF_2024/Mob Psycho.md",
+    "picoCTF/PicoCTF_2024/Heap 0.md",
+    "picoCTF/PicoCTF_2024/format string 0.md",
+    "picoCTF/PicoCTF_2024/Custom encryption.md",
+    "picoCTF/PicoCTF_2024/dont-you-love-banners.md",
+    "picoCTF/PicoCTF_2024/Commitment Issues.md",
+    "picoCTF/PicoCTF_2024/Collaborative Development.md",
+    "picoCTF/PicoCTF_2024/CanYouSee.md",
+    "picoCTF/PicoCTF_2024/Bookmarklet.md",
+    "picoCTF/PicoCTF_2024/Blame Game.md",
+    "picoCTF/PicoCTF_2024/binhexa.md",
+    "picoCTF/PicoCTF_2024/Binary Search.md",
+    "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
     "picoCTF/plantilla.md",
     "picoCTF/RetosForensic-Parte3/WebNet0/WebNet0.md",
-    "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
     "picoCTF/RetosForensic-Parte3/WebNet1",
     "picoCTF/RetosForensic-Parte3/WebNet0/picopico.key",
     "picoCTF/RetosForensic-Parte3/WebNet0/capture.pcap",
@@ -193,22 +209,6 @@
     "picoCTF/RetosForensic-Parte2/shark on wire 2/shark on wire 2.md",
     "picoCTF/RetosForensic-Parte2/WhitePages/WhitePages.md",
     "picoCTF/RetosForensic-Parte2/like1000/like1000.md",
-    "picoCTF/RetosForensic-Parte2/c0rrupt/c0rrupt.md",
-    "retos bandit/Level 18.md",
-    "picoCTF/RetosForensic-Parte2/Sin título.md",
-    "retos bandit/Level 17.md",
-    "retos bandit/Level 16.md",
-    "retos bandit/Level 15.md",
-    "retos bandit/Level 14.md",
-    "retos bandit/Level 13.md",
-    "retos bandit/Level 12.md",
-    "retos bandit/Level 11.md",
-    "retos bandit/Level 10.md",
-    "retos bandit/Level 9.md",
-    "retos bandit/Level 8.md",
-    "retos bandit/Level 7.md",
-    "retos bandit/Level 5.md",
-    "retos bandit/Level 3.md",
     "Sin título.canvas",
     "Imagenes/Pasted image 20240313184037.png"
   ]

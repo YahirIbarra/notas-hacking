@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da0d9a2d452c2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/RetosForensic-Parte3/WebNet0/WebNet0.md",
+                "file": "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
+                "file": "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/PicoCTF_2024/CanYouSee.md",
+                "file": "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/PicoCTF_2024/CanYouSee.md"
+                "file": "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md"
               }
             }
           }
@@ -172,6 +160,37 @@
   },
   "active": "d17fc1309dfb086b",
   "lastOpenFiles": [
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/pico.flag.png",
+    "picoCTF/plantilla.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction/Redaction gone wrong.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction/Financial_Report_for_ABC_Labs.pdf",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/5_Packets/Packets Primer.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/5_Packets/network-dump.flag.pcap",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/4_Lookey/Lookey here.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/5_Packets",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/4_Lookey/anthem.flag.txt",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance/Enhance!.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/4_Lookey",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance/drawing.flag.svg",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/2_Wireshark/Wireshark doo dooo do doo....md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/2_Wireshark/shark1.pcapng",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/information.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/2_Wireshark",
+    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/cat.jpg",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/9. SQL Direct.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/7. Roboto Sans.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/8. Secrets.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/6. Power Cookie.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/5. Forbidden Paths.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/4. Search source.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/3. Local Authority.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/2. Inspect HTML.md",
+    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/1. Includes.md",
+    "picoCTF/PicoCTF_2024/CanYouSee.md",
     "picoCTF/PicoCTF_2024/Time Machine.md",
     "picoCTF/PicoCTF_2024/Super SSH.md",
     "picoCTF/PicoCTF_2024/Secret of the Polyglot.md",
@@ -179,36 +198,7 @@
     "picoCTF/PicoCTF_2024/Mob Psycho.md",
     "picoCTF/PicoCTF_2024/Heap 0.md",
     "picoCTF/PicoCTF_2024/format string 0.md",
-    "picoCTF/PicoCTF_2024/Custom encryption.md",
-    "picoCTF/PicoCTF_2024/dont-you-love-banners.md",
-    "picoCTF/PicoCTF_2024/Commitment Issues.md",
-    "picoCTF/PicoCTF_2024/Collaborative Development.md",
-    "picoCTF/PicoCTF_2024/CanYouSee.md",
-    "picoCTF/PicoCTF_2024/Bookmarklet.md",
-    "picoCTF/PicoCTF_2024/Blame Game.md",
-    "picoCTF/PicoCTF_2024/binhexa.md",
-    "picoCTF/PicoCTF_2024/Binary Search.md",
-    "picoCTF/RetosForensic-Parte3/WebNet1/WebNet1.md",
-    "picoCTF/plantilla.md",
-    "picoCTF/RetosForensic-Parte3/WebNet0/WebNet0.md",
-    "picoCTF/RetosForensic-Parte3/WebNet1",
-    "picoCTF/RetosForensic-Parte3/WebNet0/picopico.key",
-    "picoCTF/RetosForensic-Parte3/WebNet0/capture.pcap",
-    "picoCTF/RetosForensic-Parte3/MacroHard/MacroHard WeakEdge.md",
-    "picoCTF/RetosForensic-Parte3/WebNet0",
-    "picoCTF/RetosForensic-Parte3/MacroHard/Forensics is fun.pptm",
-    "picoCTF/RetosForensic-Parte3/MacroHard",
-    "picoCTF/RetosForensic-Parte3/Tunnel_Vision/tunn3l v1s10n.md",
-    "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/Matryoshka doll.md",
-    "picoCTF/RetosForensic-Parte3/Tunnel_Vision/tunn3l_v1s10n",
-    "picoCTF/RetosForensic-Parte3/Tunnel_Vision",
-    "picoCTF/RetosForensic-Parte3/Nueva carpeta",
     "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
-    "picoCTF/RetosForensic-Parte2/m00nwalk/m00nwalk.md",
-    "picoCTF/RetosForensic-Parte3/Matryoshka_Doll",
-    "picoCTF/RetosForensic-Parte2/shark on wire 2/shark on wire 2.md",
-    "picoCTF/RetosForensic-Parte2/WhitePages/WhitePages.md",
-    "picoCTF/RetosForensic-Parte2/like1000/like1000.md",
     "Sin título.canvas",
     "Imagenes/Pasted image 20240313184037.png"
   ]

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "69e1877d0b26894a",
+        "id": "7a92d48d62245b98",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5d575ec17d2b08",
+            "id": "cc4837cc5d2f67c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3f62187f3700c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +138,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9b5d575ec17d2b08",
+  "active": "cc4837cc5d2f67c3",
   "lastOpenFiles": [
     "picoCTF/plantilla.md",
+    "picoCTF/RetosCrypto-Parte2/b00tl3gRSA2.md",
+    "picoCTF/RetosCrypto-Parte2/miniRSA/miniRSA.md",
+    "picoCTF/RetosCrypto-Parte2/miniRSA/ciphertext",
+    "picoCTF/RetosCrypto-Parte2/rsa-pop-quiz.md",
+    "picoCTF/RetosCrypto-Parte2/miniRSA",
     "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
+    "picoCTF/RetosCrypto-Parte2",
     "picoCTF/RetosCrypto-Parte1/Tapping/Tapping.md",
     "picoCTF/RetosCrypto-Parte1/waves_over_lambda",
     "picoCTF/RetosCrypto-Parte1/la_cifra_de/la cifra de.md",
@@ -175,10 +161,7 @@
     "picoCTF/RetosCrypto-Parte1/caesar",
     "picoCTF/RetosCrypto-Parte1/13",
     "picoCTF/RetosCrypto-Parte1/The_Numbers/The Numbers.md",
-    "picoCTF/RetosCrypto-Parte1/Easy1",
     "picoCTF/RetosCrypto-Parte1/The_Numbers/the_numbers.png",
-    "picoCTF/RetosCrypto-Parte1/The_Numbers",
-    "picoCTF/RetosCrypto-Parte1",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/pico.flag.png",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction/Redaction gone wrong.md",
@@ -197,9 +180,6 @@
     "picoCTF/Segundo_Examen_Parte_1/RetosWeb/4. Search source.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosWeb/3. Local Authority.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosWeb/2. Inspect HTML.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/1. Includes.md",
-    "picoCTF/PicoCTF_2024/CanYouSee.md",
-    "picoCTF/PicoCTF_2024/Time Machine.md",
     "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
     "Sin título.canvas",
     "Imagenes/Pasted image 20240313184037.png"

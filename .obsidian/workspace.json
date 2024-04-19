@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc4837cc5d2f67c3",
+            "id": "9b95a30eddea96a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "522916601f55a728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Seguridad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md"
+              }
             }
           }
         ]
@@ -138,28 +158,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cc4837cc5d2f67c3",
+  "active": "9b95a30eddea96a2",
   "lastOpenFiles": [
+    "Sin título.canvas",
+    "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+    "picoCTF/RetosCrypto-Parte3/ReadMyCert/readmycert.csr",
     "picoCTF/plantilla.md",
+    "picoCTF/RetosCrypto-Parte3/HideToSee/HideToSee.md",
+    "picoCTF/RetosCrypto-Parte3/ReadMyCert",
+    "picoCTF/RetosCrypto-Parte3/Pixelated/Pixelated.md",
+    "picoCTF/RetosCrypto-Parte3/Pixelated/scrambled2.png",
+    "picoCTF/RetosCrypto-Parte3/Pixelated/scrambled1.png",
+    "picoCTF/RetosCrypto-Parte3/Pixelated",
+    "picoCTF/RetosCrypto-Parte3/HideToSee/atbash.jpg",
+    "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs/Mind your Ps and Qs.md",
+    "picoCTF/RetosCrypto-Parte3/HideToSee",
+    "picoCTF/RetosCrypto-Parte3/basic-mod1/basic-mod1.md",
+    "picoCTF/Primer_Parcial/11 - Codebook.md",
+    "picoCTF/RetosCrypto-Parte3/basic-mod1",
     "picoCTF/RetosCrypto-Parte2/b00tl3gRSA2.md",
+    "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs/values",
+    "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs",
+    "picoCTF/RetosCrypto-Parte3/Nueva carpeta",
+    "picoCTF/RetosCrypto-Parte3",
+    "picoCTF/RetosCrypto-Parte2/rsa-pop-quiz.md",
     "picoCTF/RetosCrypto-Parte2/miniRSA/miniRSA.md",
     "picoCTF/RetosCrypto-Parte2/miniRSA/ciphertext",
-    "picoCTF/RetosCrypto-Parte2/rsa-pop-quiz.md",
-    "picoCTF/RetosCrypto-Parte2/miniRSA",
     "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
-    "picoCTF/RetosCrypto-Parte2",
     "picoCTF/RetosCrypto-Parte1/Tapping/Tapping.md",
-    "picoCTF/RetosCrypto-Parte1/waves_over_lambda",
     "picoCTF/RetosCrypto-Parte1/la_cifra_de/la cifra de.md",
-    "picoCTF/RetosCrypto-Parte1/Tapping",
     "picoCTF/RetosCrypto-Parte1/caesar/caesar.md",
-    "picoCTF/RetosCrypto-Parte1/la_cifra_de",
     "picoCTF/RetosCrypto-Parte1/Easy1/Easy1.md",
-    "picoCTF/RetosCrypto-Parte1/Easy1/table.txt",
     "picoCTF/RetosCrypto-Parte1/13/13.md",
-    "picoCTF/RetosCrypto-Parte1/caesar/ciphertext",
-    "picoCTF/RetosCrypto-Parte1/caesar",
-    "picoCTF/RetosCrypto-Parte1/13",
     "picoCTF/RetosCrypto-Parte1/The_Numbers/The Numbers.md",
     "picoCTF/RetosCrypto-Parte1/The_Numbers/the_numbers.png",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/pico.flag.png",
@@ -173,15 +203,7 @@
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/information.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/cat.jpg",
     "picoCTF/Segundo_Examen_Parte_1/RetosWeb/9. SQL Direct.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/7. Roboto Sans.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/8. Secrets.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/6. Power Cookie.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/5. Forbidden Paths.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/4. Search source.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/3. Local Authority.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/2. Inspect HTML.md",
     "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
-    "Sin título.canvas",
     "Imagenes/Pasted image 20240313184037.png"
   ]
 }

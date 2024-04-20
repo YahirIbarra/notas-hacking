@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b95a30eddea96a2",
+            "id": "522916601f55a728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "522916601f55a728",
+            "id": "b644dc1d3cecad15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md"
+                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md"
               }
             }
           }
@@ -158,32 +158,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9b95a30eddea96a2",
+  "active": "522916601f55a728",
   "lastOpenFiles": [
-    "Sin título.canvas",
-    "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
-    "picoCTF/RetosCrypto-Parte3/ReadMyCert/readmycert.csr",
+    "picoCTF/RetosReversing-Parte1/vault-door-5/VaultDoor5.java",
     "picoCTF/plantilla.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-4/vault-door-4.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-5",
+    "picoCTF/RetosReversing-Parte1/vault-door-4/VaultDoor4.java",
+    "picoCTF/RetosReversing-Parte1/vault-door-3/valut-door-3.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-4",
+    "picoCTF/RetosReversing-Parte1/vault-door-3/VaultDoor3.java",
+    "picoCTF/RetosReversing-Parte1/vault-door-1/vault-door-1.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-3",
+    "picoCTF/RetosReversing-Parte1/vault-door-1/VaultDoor1.java",
+    "picoCTF/RetosReversing-Parte1/vault-door-training/vault-door-training.md",
+    "picoCTF/RetosReversing-Parte1/vault-door-1",
+    "picoCTF/RetosReversing-Parte1/vault-door-training/VaultDoorTraining.java",
+    "picoCTF/RetosReversing-Parte1/vault-door-training",
+    "picoCTF/RetosReversing-Parte1",
+    "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
+    "Sin título.canvas",
     "picoCTF/RetosCrypto-Parte3/HideToSee/HideToSee.md",
-    "picoCTF/RetosCrypto-Parte3/ReadMyCert",
     "picoCTF/RetosCrypto-Parte3/Pixelated/Pixelated.md",
     "picoCTF/RetosCrypto-Parte3/Pixelated/scrambled2.png",
     "picoCTF/RetosCrypto-Parte3/Pixelated/scrambled1.png",
-    "picoCTF/RetosCrypto-Parte3/Pixelated",
     "picoCTF/RetosCrypto-Parte3/HideToSee/atbash.jpg",
     "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs/Mind your Ps and Qs.md",
-    "picoCTF/RetosCrypto-Parte3/HideToSee",
     "picoCTF/RetosCrypto-Parte3/basic-mod1/basic-mod1.md",
     "picoCTF/Primer_Parcial/11 - Codebook.md",
-    "picoCTF/RetosCrypto-Parte3/basic-mod1",
     "picoCTF/RetosCrypto-Parte2/b00tl3gRSA2.md",
-    "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs/values",
-    "picoCTF/RetosCrypto-Parte3/Mind your Ps and Qs",
-    "picoCTF/RetosCrypto-Parte3/Nueva carpeta",
-    "picoCTF/RetosCrypto-Parte3",
     "picoCTF/RetosCrypto-Parte2/rsa-pop-quiz.md",
     "picoCTF/RetosCrypto-Parte2/miniRSA/miniRSA.md",
-    "picoCTF/RetosCrypto-Parte2/miniRSA/ciphertext",
     "picoCTF/RetosCrypto-Parte1/waves_over_lambda/waves over lambda.md",
     "picoCTF/RetosCrypto-Parte1/Tapping/Tapping.md",
     "picoCTF/RetosCrypto-Parte1/la_cifra_de/la cifra de.md",
@@ -196,13 +202,8 @@
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction/Redaction gone wrong.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/5_Packets/Packets Primer.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/4_Lookey/Lookey here.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance/Enhance!.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance/drawing.flag.svg",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/2_Wireshark/Wireshark doo dooo do doo....md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/information.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/cat.jpg",
-    "picoCTF/Segundo_Examen_Parte_1/RetosWeb/9. SQL Direct.md",
     "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
     "Imagenes/Pasted image 20240313184037.png"
   ]

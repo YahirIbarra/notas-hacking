@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
+                "file": "picoCTF/RetosReversing-Parte2/asm3/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
+                "file": "picoCTF/RetosReversing-Parte2/asm3/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
+                "file": "picoCTF/RetosReversing-Parte2/asm3/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md"
+                "file": "picoCTF/RetosReversing-Parte2/asm3/asm3.md"
               }
             }
           }
@@ -160,23 +160,27 @@
   },
   "active": "522916601f55a728",
   "lastOpenFiles": [
-    "picoCTF/RetosReversing-Parte1/vault-door-5/VaultDoor5.java",
+    "picoCTF/RetosReversing-Parte2/asm3/test.S",
+    "picoCTF/RetosReversing-Parte2/asm2/test.S",
     "picoCTF/plantilla.md",
+    "picoCTF/RetosReversing-Parte2/asm3/asm3.md",
+    "picoCTF/RetosReversing-Parte2/asm2/asm2.md",
+    "picoCTF/RetosReversing-Parte2/asm3",
+    "picoCTF/RetosReversing-Parte2/asm1/asm1.md",
+    "picoCTF/RetosReversing-Parte2/asm2",
     "picoCTF/RetosReversing-Parte1/vault-door-5/vault-door-5.md",
+    "picoCTF/RetosReversing-Parte2/asm1/test.S",
+    "picoCTF/RetosReversing-Parte2/asm1.md",
+    "picoCTF/RetosReversing-Parte2/asm1",
+    "picoCTF/RetosReversing-Parte2/Nueva carpeta",
+    "picoCTF/RetosReversing-Parte2",
+    "picoCTF/RetosReversing-Parte1/vault-door-5/VaultDoor5.java",
     "picoCTF/RetosReversing-Parte1/vault-door-4/vault-door-4.md",
     "picoCTF/RetosReversing-Parte1/vault-door-5",
     "picoCTF/RetosReversing-Parte1/vault-door-4/VaultDoor4.java",
     "picoCTF/RetosReversing-Parte1/vault-door-3/valut-door-3.md",
-    "picoCTF/RetosReversing-Parte1/vault-door-4",
-    "picoCTF/RetosReversing-Parte1/vault-door-3/VaultDoor3.java",
     "picoCTF/RetosReversing-Parte1/vault-door-1/vault-door-1.md",
-    "picoCTF/RetosReversing-Parte1/vault-door-3",
-    "picoCTF/RetosReversing-Parte1/vault-door-1/VaultDoor1.java",
     "picoCTF/RetosReversing-Parte1/vault-door-training/vault-door-training.md",
-    "picoCTF/RetosReversing-Parte1/vault-door-1",
-    "picoCTF/RetosReversing-Parte1/vault-door-training/VaultDoorTraining.java",
-    "picoCTF/RetosReversing-Parte1/vault-door-training",
-    "picoCTF/RetosReversing-Parte1",
     "picoCTF/RetosCrypto-Parte3/ReadMyCert/ReadMyCert.md",
     "Sin título.canvas",
     "picoCTF/RetosCrypto-Parte3/HideToSee/HideToSee.md",
@@ -196,12 +200,8 @@
     "picoCTF/RetosCrypto-Parte1/caesar/caesar.md",
     "picoCTF/RetosCrypto-Parte1/Easy1/Easy1.md",
     "picoCTF/RetosCrypto-Parte1/13/13.md",
-    "picoCTF/RetosCrypto-Parte1/The_Numbers/The Numbers.md",
     "picoCTF/RetosCrypto-Parte1/The_Numbers/the_numbers.png",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/pico.flag.png",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/7_Stego/St3g0.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/6_Redaction/Redaction gone wrong.md",
-    "picoCTF/Segundo_Examen_Parte_1/RetosForensic/5_Packets/Packets Primer.md",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/3_Enhance/drawing.flag.svg",
     "picoCTF/Segundo_Examen_Parte_1/RetosForensic/1_information/cat.jpg",
     "picoCTF/RetosForensic-Parte3/Matryoshka_Doll/dolls.jpg",
